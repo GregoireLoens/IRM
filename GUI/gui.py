@@ -1,5 +1,5 @@
 import tkinter as tk
-import db
+from database import db
 
 db = db.init_db()
 

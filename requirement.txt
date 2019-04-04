@@ -1,0 +1,10 @@
+Number of images in set: ~ 300+ to start || 1500+ paint and photography at end
+
+Validation set: 20% of the set
+
+training set: 70% of the set (in those 70%,  30% will be change (10% flipped, 10% zoom, 10% rotate))
+
+test_set: 10% of the set
+##########################################
+
+Treatment of images: greyscale, same size (to be decided), some will be flipped, zoom or rotate.
