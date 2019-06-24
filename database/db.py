@@ -4,9 +4,9 @@ import pymysql
 def init_db():
     try:
         db = pymysql.connect(host="127.0.0.1",
-                             user="root",
-                             password="root",
-                             database="test")
+                             user="loens_g",
+                             password="Loens_g59",
+                             database="irm")
         print(db)
 
         return db
